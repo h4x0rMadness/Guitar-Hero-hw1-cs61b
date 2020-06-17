@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b92fd94-c162-45e9-9416-ed9a58010bc6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GuitarHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/datastructur/synthesizer/BoundedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/datastructur/synthesizer/ArrayRingBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/es/datastructur/synthesizer/ArrayRingBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/datastructur/synthesizer/GuitarString.java" beforeDir="false" afterPath="$PROJECT_DIR$/es/datastructur/synthesizer/GuitarString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/datastructur/synthesizer/TestArrayRingBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/es/datastructur/synthesizer/TestArrayRingBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/datastructur/synthesizer/TestGuitarString.java" beforeDir="false" afterPath="$PROJECT_DIR$/es/datastructur/synthesizer/TestGuitarString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/creatures/TestPlip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/creatures/TestPlip.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dPyko63nhFbxRj9tl5pMKHKygH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestArrayRingBuffer.testEquals">
+    <configuration name="TestArrayRingBuffer.testEmptyDequeueException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.datastructur.synthesizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.datastructur.synthesizer" />
+      <option name="MAIN_CLASS_NAME" value="es.datastructur.synthesizer.TestArrayRingBuffer" />
+      <option name="METHOD_NAME" value="testEmptyDequeueException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayRingBuffer.testEmptyPeekException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.datastructur.synthesizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.datastructur.synthesizer" />
+      <option name="MAIN_CLASS_NAME" value="es.datastructur.synthesizer.TestArrayRingBuffer" />
+      <option name="METHOD_NAME" value="testEmptyPeekException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayRingBuffer.testEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.datastructur.synthesizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.datastructur.synthesizer" />
+      <option name="MAIN_CLASS_NAME" value="es.datastructur.synthesizer.TestArrayRingBuffer" />
+      <option name="METHOD_NAME" value="testEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayRingBuffer.testFullEnqueueException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.datastructur.synthesizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.datastructur.synthesizer" />
+      <option name="MAIN_CLASS_NAME" value="es.datastructur.synthesizer.TestArrayRingBuffer" />
+      <option name="METHOD_NAME" value="testFullEnqueueException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayRingBuffer.testIterator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.datastructur.synthesizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.datastructur.synthesizer" />
+      <option name="MAIN_CLASS_NAME" value="es.datastructur.synthesizer.TestArrayRingBuffer" />
+      <option name="METHOD_NAME" value="testIterator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestArrayRingBuffer.testEquals" />
+        <item itemvalue="JUnit.TestArrayRingBuffer.testEmptyDequeueException" />
+        <item itemvalue="JUnit.TestArrayRingBuffer.testEmptyPeekException" />
+        <item itemvalue="JUnit.TestArrayRingBuffer.testFullEnqueueException" />
+        <item itemvalue="JUnit.TestArrayRingBuffer.testIterator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b92fd94-c162-45e9-9416-ed9a58010bc6" name="Default Changelist" comment="" />
+      <created>1592341168429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592341168429</updated>
+      <workItem from="1592341169923" duration="10118000" />
+      <workItem from="1592433966718" duration="4009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1287" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1592434140440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1287" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592434140440" />
+    <state width="824" height="277" key="GridCell.Tab.0.bottom" timestamp="1592437893908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="824" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592437893908" />
+    <state width="824" height="277" key="GridCell.Tab.0.center" timestamp="1592437893908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="824" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592437893908" />
+    <state width="824" height="277" key="GridCell.Tab.0.left" timestamp="1592437893908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="824" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592437893908" />
+    <state width="824" height="277" key="GridCell.Tab.0.right" timestamp="1592437893908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="824" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592437893908" />
+    <state width="824" height="339" key="GridCell.Tab.1.bottom" timestamp="1592437841315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="824" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592437841315" />
+    <state width="824" height="339" key="GridCell.Tab.1.center" timestamp="1592437841315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="824" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592437841315" />
+    <state width="824" height="339" key="GridCell.Tab.1.left" timestamp="1592437841315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="824" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592437841315" />
+    <state width="824" height="339" key="GridCell.Tab.1.right" timestamp="1592437841315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="824" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592437841315" />
+    <state width="824" height="339" key="GridCell.Tab.2.bottom" timestamp="1592437841315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="824" height="339" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592437841315" />
+    <state width="824" height="339" key="GridCell.Tab.2.center" timestamp="1592437841315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="824" height="339" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592437841315" />
+    <state width="824" height="339" key="GridCell.Tab.2.left" timestamp="1592437841315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="824" height="339" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592437841315" />
+    <state width="824" height="339" key="GridCell.Tab.2.right" timestamp="1592437841315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="824" height="339" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592437841315" />
+    <state x="1145" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1592437307515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1145" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592437307515" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/es/datastructur/synthesizer/TestArrayRingBuffer.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
